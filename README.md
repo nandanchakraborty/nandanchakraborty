@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandan chakraborty</h1>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** and **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandanchakraborty](https://github.com/nandanchakraborty)
 
