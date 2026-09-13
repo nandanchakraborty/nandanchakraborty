@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Node and Express**<br><br>- 🌱 I’m currently learning **Java script**<br><br>- 📫 How to reach me **nandanchakraborty90@gmail.com**<br>
+ 🔭 I’m currently working on **Self Project**<br><br>- 🌱 I’m currently learning **Java script**<br><br>- 📫 How to reach me **nandanchakraborty90@gmail.com**<br>
 
 
 ## 🌐 Socials:
